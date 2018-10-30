@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-5G2TS04",
+    "children" : [ {
+      "name" : "23824-MainThread",
+      "children" : [ {
+        "name" : "Test_001.test_002",
+        "uid" : "ad23131f9a354268",
+        "parentUid" : "2e84da7f12561f3c9e0f9655f6ef8b93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540881830201,
+          "stop" : 1540881830203,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_001.test_001",
+        "uid" : "7d94913767123769",
+        "parentUid" : "2e84da7f12561f3c9e0f9655f6ef8b93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540881830197,
+          "stop" : 1540881830200,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e84da7f12561f3c9e0f9655f6ef8b93"
+    } ],
+    "uid" : "758ee6dd916e51402ff3a306e1ebf566"
+  } ]
+}
